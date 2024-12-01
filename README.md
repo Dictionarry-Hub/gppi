@@ -1,2 +1,3 @@
-# gppi
-Golden Popcorn Performance Index docs / implementation
+# GPPI
+
+Code for Golden Popcorn Performance Index algorithm + K-Means Clustering Optimisation
