@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "total_groups": 45,
+    "total_tiers": 3,
+    "resolution": "1080p",
+    "type": "Quality",
+    "algorithm": "DBSCAN",
+    "eps_value": 8.2215,
+    "eps_factor": null,
+    "min_samples": 1
+  },
+  "tier_statistics": {
+    "tier_1": {
+      "count": 1,
+      "min_gppi": 164.44,
+      "max_gppi": 164.44,
+      "avg_gppi": 164.44
+    },
+    "tier_2": {
+      "count": 2,
+      "min_gppi": 147.99,
+      "max_gppi": 149.72,
+      "avg_gppi": 148.85500000000002
+    },
+    "tier_3": {
+      "count": 42,
+      "min_gppi": 0.01,
+      "max_gppi": 55.58,
+      "avg_gppi": 15.446190476190477
+    }
+  },
+  "tiered_groups": [
+    {
+      "name": "D-Z0N3",
+      "tier": 1
+    },
+    {
+      "name": "DON",
+      "tier": 2
+    },
+    {
+      "name": "EbP",
+      "tier": 2
+    },
+    {
+      "name": "Geek",
+      "tier": 3
+    },
+    {
+      "name": "TayTo",
+      "tier": 3
+    },
+    {
+      "name": "ZQ",
+      "tier": 3
+    },
+    {
+      "name": "VietHD",
+      "tier": 3
+    },
+    {
+      "name": "CtrlHD",
+      "tier": 3
+    },
+    {
+      "name": "HiFi",
+      "tier": 3
+    },
+    {
+      "name": "FoRM",
+      "tier": 3
+    },
+    {
+      "name": "HiDt",
+      "tier": 3
+    },
+    {
+      "name": "SA89",
+      "tier": 3
+    },
+    {
+      "name": "CRiSC",
+      "tier": 3
+    },
+    {
+      "name": "decibeL",
+      "tier": 3
+    },
+    {
+      "name": "NCmt",
+      "tier": 3
+    },
+    {
+      "name": "de[42]",
+      "tier": 3
+    },
+    {
+      "name": "IDE",
+      "tier": 3
+    },
+    {
+      "name": "HDMaNiAcS",
+      "tier": 3
+    },
+    {
+      "name": "LolHD",
+      "tier": 3
+    },
+    {
+      "name": "BMF",
+      "tier": 3
+    },
+    {
+      "name": "EA",
+      "tier": 3
+    },
+    {
+      "name": "NTb",
+      "tier": 3
+    },
+    {
+      "name": "TBB",
+      "tier": 3
+    },
+    {
+      "name": "nmd",
+      "tier": 3
+    },
+    {
+      "name": "SbR",
+      "tier": 3
+    },
+    {
+      "name": "PTer",
+      "tier": 3
+    },
+    {
+      "name": "Dariush",
+      "tier": 3
+    },
+    {
+      "name": "TDD",
+      "tier": 3
+    },
+    {
+      "name": "Penumbra",
+      "tier": 3
+    },
+    {
+      "name": "rightSIZE",
+      "tier": 3
+    },
+    {
+      "name": "FTW-HD",
+      "tier": 3
+    },
+    {
+      "name": "xander",
+      "tier": 3
+    },
+    {
+      "name": "Chotab",
+      "tier": 3
+    },
+    {
+      "name": "ESiR",
+      "tier": 3
+    },
+    {
+      "name": "Positive",
+      "tier": 3
+    },
+    {
+      "name": "ORiGEN",
+      "tier": 3
+    },
+    {
+      "name": "SaNcTi",
+      "tier": 3
+    },
+    {
+      "name": "ThD",
+      "tier": 3
+    },
+    {
+      "name": "HANDJOB",
+      "tier": 3
+    },
+    {
+      "name": "EDPH",
+      "tier": 3
+    },
+    {
+      "name": "MTeam",
+      "tier": 3
+    },
+    {
+      "name": "iFT",
+      "tier": 3
+    },
+    {
+      "name": "E.N.D",
+      "tier": 3
+    },
+    {
+      "name": "KASHMiR",
+      "tier": 3
+    },
+    {
+      "name": "FraMeSToR",
+      "tier": 3
+    }
+  ]
+}
